@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["API REST", "JS", "Node.js"],
+  "author": "Evandro Florscuk",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3"
