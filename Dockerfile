@@ -1,4 +1,4 @@
-FROM node:14.19.1
+FROM node:fermium
 
 WORKDIR /usr/src/app
 
@@ -12,4 +12,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD [ "node", "npm start" ]
+CMD [ "node", "index.js" ]
