@@ -19,7 +19,7 @@ v14.19.0
 ### NPM version
 6.14.16
 
-## Dockerizing the API for development.
+## Dockerizing the API for development
 
 First, make sure you have docker or docker-compose installed on your machine with the command:
 ```
